@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Uncertainty-Guided Temporal Refinement With Bone-Length Consistency"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/amnahussain98/uncertainty-guided-pose-refinement"
+authors:
+  - family-names: Hussain
+    given-names: Amna
+  - family-names: Zafar
+    given-names: Fardan
+  - family-names: Gillani
+    given-names: Zeeshan
+preferred-citation:
+  type: article
+  title: "Uncertainty-Guided Temporal Refinement With Bone-Length Consistency for Occlusion-Robust 3D Human Pose Estimation"
+  authors:
+    - family-names: Hussain
+      given-names: Amna
+    - family-names: Zafar
+      given-names: Fardan
+    - family-names: Gillani
+      given-names: Zeeshan
+  journal: "IEEE Access"
+  year: 2026
+  notes: "Submitted"
